@@ -11,7 +11,7 @@ It is useful in exploring the relations between a collection of documents and th
 This project uses the LSA approach to assign topics to the hotel reviews assigned by customers.
 
 ## Dataset
-The dataset that was used in this project was obtained from Kaggle and can be found here at :https://www.kaggle.com/datafiniti/hotel-reviews.It contains distinct reviews of different hotels around the world.
+The dataset that was used in this project was obtained from Kaggle and can be found here at : https://www.kaggle.com/datafiniti/hotel-reviews. It contains distinct reviews of different hotels around the world.
 
 ## Data Exploration
 The shape of the data:
@@ -30,6 +30,7 @@ Kmeans clustering is applied to predict 10 different clusters.
 
 ![image](https://user-images.githubusercontent.com/67794705/89721156-02b50a00-d9d2-11ea-9eac-198962266f8d.png)
 
-and then we tried to predict the cluster of new reviews
+## Results
+We tried to predict the cluster of new reviews:
 
 ![image](https://user-images.githubusercontent.com/67794705/89721169-2a0bd700-d9d2-11ea-999f-08f3c66faee4.png)
